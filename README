@@ -1,40 +1,5 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Gist
- @qjerry0
- Unwatch 1
-  Star 0
-  Fork 0 qjerry0/TextAdventure
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Pulse  Graphs  Settings
-No description or website provided. — Edit
- 3 commits
- 1 branch
- 0 releases
- 2 contributors
- Java 100.0%
-Java
-Clone or download  Create new file Upload files Find file Branch: master New pull request
-Latest commit 753d9d8  a day ago @qjerry0 qjerry0 committed on GitHub Update README.txt
-.settings	loading onto github	5 months ago
-Lists	loading onto github	4 months ago
-beta	loading onto github	4 months ago
-build/classes	loading onto github	5 months ago
-examples	loading onto github	5 months ago
-nbproject	loading onto github	4 months ago
-src/textbasedadventurejj	loading onto github	4 months ago
-.classpath	loading onto github	5 months ago
-.gitattributes	loading onto github	5 months ago
-.gitignore	loading onto github	5 months ago
-.project	loading onto github	5 months ago
-README.docx	loading onto github	4 months ago
-README.txt	Update README.txt	a day ago
-build.xml	loading onto github	5 months ago
-manifest.mf	loading onto github	5 months ago
- README.txt
-﻿***This demo project was originally done end of senior year in high school, before I had knowledge about certain concepts, especially how to properly comment and make Javadoc files. Due to time constraints, the actual adventure part is fairly short and with only some user input commands implemented. Nonetheless, the programming structure is there to build up a much larger game than this minimum viable product. ***
+
+﻿***This demo project was originally done end of senior year in high school, before I had knowledge about certain concepts, especially how to properly comment and make Javadoc files. Due to time constraints, the actual adventure part is fairly short and with only some user input commands implemented. Nonetheless, the programming structure is there to build up a much larger game than this minimum viable product. Executing the .jar file should allow the program to run.***
 ﻿
 ﻿ //Rest of document below is unchanged from ~June 2016.
 ﻿ 
