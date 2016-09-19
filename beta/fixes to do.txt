@@ -1,0 +1,7 @@
+light in the closet  (so we can say there's no light here)
+add a message for when an object doesn't exist (e.g. examine tree, use nothing on nothing)
+serving counter in cafeteria
+add "use" method to more things
+use ... with....
+use .... on ....
+in contorl room, we say "The control_room_door is already open."
