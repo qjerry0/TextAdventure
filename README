@@ -34,5 +34,3 @@
 Some early example scripts can be found in the “examples” folder. The “beta” folder contains some more updated scripts. It includes the Objects and Locations directories described in the Constants class. 
 * The Objects directory contains various example objects. Each object contains an “events” file which lists all of the events the object has as well as each event itself. 
 * The Locations directory will have all the locations in the same hierarchy that exists in the game.
-Contact GitHub API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Status Help
